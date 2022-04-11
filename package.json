@@ -1,0 +1,15 @@
+{
+  "name": "create-dense-lattice-graph",
+  "version": "1.0.0",
+  "description": "An implementation of a function that permits to create a dense lattice graph by specifying a width and a height.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watch"
+  },
+  "keywords": ["lattice", "graph", "dense"],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^27.4.7"
+  }
+}
